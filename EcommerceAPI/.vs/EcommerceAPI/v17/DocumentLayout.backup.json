@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\FIC\\Documents\\ProjetoEcomerce\\EcommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED384B-8F42-4BA5-8E40-23C022B611ED}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\fic\\documents\\projetoecomerce\\ecommerceapi\\ecommerceapi\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED384B-8F42-4BA5-8E40-23C022B611ED}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\interfaces\\iprodutorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBED384B-8F42-4BA5-8E40-23C022B611ED}|EcommerceAPI\\EcommerceAPI.csproj|c:\\users\\fic\\documents\\projetoecomerce\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBED384B-8F42-4BA5-8E40-23C022B611ED}|EcommerceAPI\\EcommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IProdutoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\ProjetoEcomerce\\EcommerceAPI\\EcommerceAPI\\Interfaces\\IProdutoRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Interfaces\\IProdutoRepository.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\ProjetoEcomerce\\EcommerceAPI\\EcommerceAPI\\Interfaces\\IProdutoRepository.cs",
+              "RelativeToolTip": "EcommerceAPI\\Interfaces\\IProdutoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T00:50:27.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FIC\\Documents\\ProjetoEcomerce\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\FIC\\Documents\\ProjetoEcomerce\\EcommerceAPI\\EcommerceAPI\\Program.cs",
+              "RelativeToolTip": "EcommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:23:48.897Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

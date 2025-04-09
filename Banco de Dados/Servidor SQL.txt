@@ -1,0 +1,8 @@
+NOTE32-S28\SQLEXPRESS
+
+servidor SQL
+
+https://localhost:7286
+http://localhost:5026
+
+ dotnet ef dbcontext scaffold "Data Source=NOTE32-S28\SQLEXPRESS;Initial Catalog=ECommerce;User Id=sa;Password=Senai@134;TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer --context-dir Context --outout-dir Models
